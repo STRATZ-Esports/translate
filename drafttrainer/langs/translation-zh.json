@@ -1,78 +1,78 @@
 {
-"gamemode.turbo": "加速模式"
-"gamemode.turbo": "队长模式"
-"global.leaderboard": "排行榜"
-"global.language_select": "语言选择"
-"global.continue": "下一步"
-"login.prompt.performance_and_leaderboard": "Login to track your performance and to earn a place on the global leaderboard!"
-"global.login": "登录 "
-"global.skip": "跳过"
-"login.prompt.rank_selected": "Log in to have your rank automatically selected"
-"turbo.rules.hero_number": "6 heroes per draft phase"
-"turbo.rules.fifteen_bans": "15 random bans before draft"
-"turbo.rules.lanes_changed_no": "Lanes can’t be changed"
-"captain.rules.hero_number": "All heroes available every draft phase"
-"captain.rules.lanes_changed_yes": "Lanes can be changed"
-"draft.type.quick": "Quick Draft"
-"draft.type.normal": "Normal Draft"
-"coin.flip.player_order": "Flip the coin to see who goes first"
-"coin.flip.player_win": "你赢了！"
-"coin.flip.player_lose": "你输了！"
-"coin.flip.faction_or_pick": "Choose faction or pick order."
-"coin.flip.bot_choice": "Stratz AI chooses first."
-"global.pick": "挑选"
-"global.or": "Or"
-"global.faction": "Faction"
-"global.first_pick": "率先选人"
-"global.second_pick":"后手选人"
-"global.radiant": "天辉"
-"global.dire": "夜魔"
-"global.player_turn": "轮到你了"
-"global.win_chance": "Win chance"
-"global.strength": "力量"
-"global.agility": "敏捷"
-"global.intelligence": "智力"
-"global.pick_phase": "全英雄选择"
-"global.reserve_time": "备用"
-"global.lock_in": "选择"
-"global.ban": "禁用"
-"global.ban_phase": "禁用阶段"
-"captain.lane_selection": "Pick your Lanes"
-"captain.drag_and_drop": "Drag and Drop"
-"global.support": "辅助"
-"global.core": "核心"
-"lanes.safe_lane": "优势路"
-"lanes.mid_lane": "中路"
-"lanes.off_lane": "劣势路"
-"lanes.jungle": "打野"
-"lanes.roaming": "游走"
-"win.chance.calculation": "Calculating win chance"
-"global.early": "前期装备"
-"global.middle": "中期"
-"global.late": "后期"
-"global.overall": "整体"
-"draft.complete" "Draft Complete"
-"winner.with_percentage": "STRATZ AI wins with 74.8%!"
-"lanes.top.short": "上路"
-"lanes.middle.short": "中路"
-"lanes.bottom.short": "下路"
-"match.likely_end_time": "This match is most likely to end between 25:00 and 32:00."
-"chart.header.lane_advantage": "Lane Advantage"
-"chart.header.team_status": "Team Status"
-"hero.damage_type.magical": "魔法"
-"hero.damage_type.pure": "纯粹"
-"global.buildings": "建筑"
-"hero.stats.health": "生命值"
-"global.heal" "加血"
-"draft.team_status.stun": "上去控"
-"draft.team_status.disable": "用一个技能控制"
-"draft.team_status.slow": "减速效果"
-"draft.team_status.dispel": "驱散"
-"draft.team_status.dpd": "Damage per Death"
-"hero.damage_type.physical": "物理"
-"global.logout": "登出"
-"global.builds": "攻略"
-"global.play_again": "再玩一次"
-"promo.text.you_vs_ai": "THINK YOU CAN DRAFT BETTER THAN AN AI?"
-"promo.text.play_our_game": "Play our drafting minigame to find out!"
+    "gamemode.turbo": "加速模式",
+    "gamemode.turbo": "队长模式",
+    "global.leaderboard": "排行榜",
+    "global.language_select": "语言选择",
+    "global.continue": "下一步",
+    "login.prompt.performance_and_leaderboard": "Login to track your performance and to earn a place on the global leaderboard!",
+    "global.login": "登录",
+    "global.skip": "跳过",
+    "login.prompt.rank_selected": "Log in to have your rank automatically selected",
+    "turbo.rules.hero_number": "6 heroes per draft phase",
+    "turbo.rules.fifteen_bans": "15 random bans before draft",
+    "turbo.rules.lanes_changed_no": "Lanes can’t be changed",
+    "captain.rules.hero_number": "All heroes available every draft phase",
+    "captain.rules.lanes_changed_yes": "Lanes can be changed",
+    "draft.type.quick": "Quick Draft",
+    "draft.type.normal": "Normal Draft",
+    "coin.flip.player_order": "Flip the coin to see who goes first",
+    "coin.flip.player_win": "你赢了！",
+    "coin.flip.player_lose": "你输了！",
+    "coin.flip.faction_or_pick": "Choose faction or pick order.",
+    "coin.flip.bot_choice": "Stratz AI chooses first.",
+    "global.pick": "挑选",
+    "global.or": "Or",
+    "global.faction": "Faction",
+    "global.first_pick": "率先选人",
+    "global.second_pick":"后手选人",
+    "global.radiant": "天辉",
+    "global.dire": "夜魔",
+    "global.player_turn": "轮到你了",
+    "global.win_chance": "Win chance",
+    "global.strength": "力量",
+    "global.agility": "敏捷",
+    "global.intelligence": "智力",
+    "global.pick_phase": "全英雄选择",
+    "global.reserve_time": "备用",
+    "global.lock_in": "选择",
+    "global.ban": "禁用",
+    "global.ban_phase": "禁用阶段",
+    "captain.lane_selection": "Pick your Lanes",
+    "captain.drag_and_drop": "Drag and Drop",
+    "global.support": "辅助",
+    "global.core": "核心",
+    "lanes.safe_lane": "优势路",
+    "lanes.mid_lane": "中路",
+    "lanes.off_lane": "劣势路",
+    "lanes.jungle": "打野",
+    "lanes.roaming": "游走",
+    "win.chance.calculation": "Calculating win chance",
+    "global.early": "前期装备",
+    "global.middle": "中期",
+    "global.late": "后期",
+    "global.overall": "整体",
+    "draft.complete": "Draft Complete",
+    "winner.with_percentage": "STRATZ AI wins with 74.8%!",
+    "lanes.top.short": "上路",
+    "lanes.middle.short": "中路",
+    "lanes.bottom.short": "下路",
+    "match.likely_end_time": "This match is most likely to end between 25:00 and 32:00.",
+    "chart.header.lane_advantage": "Lane Advantage",
+    "chart.header.team_status": "Team Status",
+    "hero.damage_type.magical": "魔法",
+    "hero.damage_type.pure": "纯粹",
+    "global.buildings": "建筑",
+    "hero.stats.health": "生命值",
+    "global.heal": "加血",
+    "draft.team_status.stun": "上去控",
+    "draft.team_status.disable": "用一个技能控制",
+    "draft.team_status.slow": "减速效果",
+    "draft.team_status.dispel": "驱散",
+    "draft.team_status.dpd": "Damage per Death",
+    "hero.damage_type.physical": "物理",
+    "global.logout": "登出",
+    "global.builds": "攻略",
+    "global.play_again": "再玩一次",
+    "promo.text.you_vs_ai": "THINK YOU CAN DRAFT BETTER THAN AN AI?",
+    "promo.text.play_our_game": "Play our drafting minigame to find out!"
 }
